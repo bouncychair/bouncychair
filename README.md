@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+⚡Currently studying at NHL Stenden Unviersity of Applied Sciences in Emmen
 <!--
 **bouncychair/bouncychair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
