@@ -1,18 +1,6 @@
 ## Welcome to my profile!
 Currently studying BSc Information Technology at NHL Stenden Unviersity of Applied Sciences
 
-Languages:
-* C#
-* Java
-* Python
-* HTML/CSS/JavaScript
-* SQL
-
-Operating systems:
-* Windowsn
-* MacOS
-* Linux (Debians)
-
 <!--
 **bouncychair/bouncychair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
