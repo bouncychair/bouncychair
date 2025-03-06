@@ -1,5 +1,6 @@
 ## Welcome to my profile!
-Currently studying BSc Information Technology at NHL Stenden Unviersity of Applied Sciences
+Security Office employee with the specialization in Ethical Hacking 
+Studying Bachelor of Science in Information Technology
 
 <!--
 **bouncychair/bouncychair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
