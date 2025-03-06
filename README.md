@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-Security Office employee with the specialization in Ethical Hacking 
+Security Office employee with the specialization in Ethical Hacking </br>
 Studying Bachelor of Science in Information Technology
 
 <!--
